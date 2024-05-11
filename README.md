@@ -25,7 +25,7 @@ o projeto foi criado apenas para fins de estudo. Não haverá versões posterior
 <div>
 	<li>CEO da Alura: <strong> Paulo Oliveria </strong></li>
 	<li>Developer Advocate de Google Ai: <strong> Luciano Martins </strong></li>
-	<li>Program Manager e Autor de IA da Alura: <strong> Lucioano Carraro </strong></li>
+	<li>Program Manager e Autor de IA da Alura: <strong> Luciano Carraro </strong></li>
 	<li>Cientista de dados e Professora na FIAP <strong> Ana Raquel Cunha </strong></li>
 </div>
 
